@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML5, CSS, Bootstrap 5 & JS**
+- 💬 Ask me about **HTML5, CSS, Bootstrap 5 & JavaScript**
 
 - 📫 How to reach me **revan.isayev@gmail.com**
 
