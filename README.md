@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Restful API**
 
-- 💬 Ask me about **HTML5, CSS, Bootstrap 5 & JavaScript**
+- 💬 Ask me about **HTML5, CSS, Bootstrap 5, Jquery & JavaScript**
 
 - 📫 How to reach me **revan.isayev@gmail.com**
 
