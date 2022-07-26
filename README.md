@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Revan Isayev</h1>
 <h3 align="center">Looking for remote job</h3>
 
-- 🌱 I’m currently learning **Restful API**
+- 🌱 I’m currently learning **API kind of lessons**
 
 - 💬 Ask me about **HTML5, CSS, Bootstrap 5, Jquery & JavaScript**
 
