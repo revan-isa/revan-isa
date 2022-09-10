@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Revan Isayev</h1>
 <h3 align="center">Looking for remote job</h3>
 
-- 🌱 I’m currently learning **about API**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML5, CSS, Bootstrap 5, Jquery & JavaScript**
+- 💬 Ask me about **HTML5, CSS, SASS, Bootstrap 5, Jquery, JavaScript, RegEX, AJAX/Fetch, Git/Github**
 
 - 📫 How to reach me **revan.isayev@gmail.com**
 
